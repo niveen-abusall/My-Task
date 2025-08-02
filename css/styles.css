@@ -1,0 +1,108 @@
+html {
+ background: #ccc7ca;
+ background: linear-gradient(8deg,rgb(200, 176, 190) 0%, rgba(255, 255, 255, 1) 100%);
+
+}
+
+
+head {
+margin-bottom: 10px;
+
+
+}
+
+
+header {
+content: icon 20px;
+width: 50px;
+
+margin-right: 100px;
+
+  
+
+}
+
+
+nav {
+  border-radius: 15px;
+  padding-top: 20px;
+font-display: bold;
+font-size: larger 20px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+margin-bottom: 20px;
+text-shadow: 20px;
+
+}
+
+h1 {
+font-style: italic;
+text-decoration: double 10px;
+color: #714e64;
+background-color: #ae8fa1;
+border-radius: 20px;
+text-align: center;
+
+}
+
+body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      color: rgb(149, 106, 125);
+font-style: italic bold ;
+    }
+
+    table {
+      width: 100%;
+      margin-top: 25px;
+      padding: 25px;
+      background-color: #ae8fa1;
+      border-radius: 25px;
+    }
+
+    th, td {
+      padding: 10px;
+      border: 1px solid #ffffff;
+      text-align: left;
+      margin-bottom: 20px;
+    border-style: dotted; 
+    }
+
+    .complete {
+      color: green;
+      font-weight: bold;
+     cursor: pointer;
+    
+    
+    }
+
+    .incomplete {
+      color: red;
+      font-weight: bold;
+      cursor: pointer;
+    }
+
+    input[type="text"] {
+      padding: 8px;
+      width: 250px;
+      color: rgb(156, 66, 105);
+      box-shadow: 20px;
+    }
+
+    button {
+      padding: 8px 12px;
+      color: rgb(156, 66, 105); border-radius: 18px;
+      box-shadow: 15px; 
+      cursor: pointer;
+      background-color: rgb(187, 158, 175);
+    }
+
+
+
+
+footer {
+background-color:rgb(155, 111, 130) ;
+padding: 15px;
+margin-bottom: 20px;
+border-radius: 20px;
+color: rgb(212, 205, 209)
+}
